@@ -2,6 +2,13 @@
 <br/>
 【PHP class to read and write database】
 <br/><br/>
+【用户】
+<ul>
+<li>QingQing: <a href="QingQing.CoderWriter.com">QingQing.CoderWriter.com</a></li>
+</ul>
+<br/>
+【Users】
+<br/><br/>
 【Windows平台，支持数据库：MySQL / MariaDB / SQL Server】
 <br/>
 【Windows platform, support database: MySQL / MariaDB / SQL Server】
