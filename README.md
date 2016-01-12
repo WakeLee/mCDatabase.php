@@ -2,14 +2,14 @@
 <br/>
 【PHP class to read and write database】
 <br/><br/>
-【用户】
+【用户列表】
 <ul>
 <li>青青: <a href="http://QingQing.CoderWriter.com">http://QingQing.CoderWriter.com</a></li>
 <li>听听: <a href="http://TingTing.CoderWriter.com">http://TingTing.CoderWriter.com</a></li>
 <li>中国象棋: <a href="http://ChineseChess.CoderWriter.com">http://ChineseChess.CoderWriter.com</a></li>
 </ul>
 <br/>
-【Users】
+【User list】
 <ul>
 <li>Qing Qing: <a href="http://QingQing.CoderWriter.com">http://QingQing.CoderWriter.com</a></li>
 <li>Ting Ting: <a href="http://TingTing.CoderWriter.com">http://TingTing.CoderWriter.com</a></li>
