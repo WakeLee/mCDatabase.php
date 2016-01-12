@@ -8,13 +8,13 @@
 <li>听听: <a href="http://TingTing.CoderWriter.com">http://TingTing.CoderWriter.com</a></li>
 <li>中国象棋: <a href="http://ChineseChess.CoderWriter.com">http://ChineseChess.CoderWriter.com</a></li>
 </ul>
-<br/>
 【User list】
 <ul>
 <li>Qing Qing: <a href="http://QingQing.CoderWriter.com">http://QingQing.CoderWriter.com</a></li>
 <li>Ting Ting: <a href="http://TingTing.CoderWriter.com">http://TingTing.CoderWriter.com</a></li>
 <li>Chinese Chess: <a href="http://ChineseChess.CoderWriter.com">http://ChineseChess.CoderWriter.com</a></li>
-</ul><br/><br/>
+</ul>
+<br/>
 【Windows平台，支持数据库：MySQL / MariaDB / SQL Server】
 <br/>
 【Windows platform, support database: MySQL / MariaDB / SQL Server】
