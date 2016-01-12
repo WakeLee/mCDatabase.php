@@ -2,10 +2,10 @@
 <br/>
 【PHP class to read and write database】
 <br/><br/>
-【Windows环境，支持数据库：MySQL / SQL Server / MariaDB】
+【Windows平台，支持数据库：MySQL / MariaDB / SQL Server】
 <br/>
-【Windows environment, Support database: MySQL / SQL Server / MariaDB】
+【Windows platform, support database: MySQL / MariaDB / SQL Server】
 <br/><br/>
-【Linux环境，支持数据库：MySQL / MariaDB】
+【Linux平台，支持数据库：MySQL / MariaDB】
 <br/>
-【Linux environment, Support database: MySQL / MariaDB】
+【Linux platform, support database: MySQL / MariaDB】
