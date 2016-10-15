@@ -9,10 +9,10 @@
 
 【用户列表】
 <ul>
-<li>青青: <a href="http://" target="_blank">http://</a></li>
+<li>青青 : <a href="http://" target="_blank">http://</a></li>
 </ul>
 【User list】
 <ul>
-<li>Qing Qing: <a href="http://" target="_blank">http://</a></li>
+<li>Qing Qing : <a href="http://" target="_blank">http://</a></li>
 </ul>
 
