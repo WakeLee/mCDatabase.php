@@ -532,7 +532,7 @@ class mCDatabase extends mCDatabase_base
 		{
 			case "mysql":
 			{
-				$this->conn = mysqli_connect($option->dblocation, $option->uid, $option->pwd, $option->dbname);
+				$this->conn = mysqli_connect($option->dblocation, $option->uid, $option->pwd, $option->dbname, $option->dbport);
 				
 				if( mysqli_connect_errno($this->conn) )
 				{
@@ -548,7 +548,7 @@ class mCDatabase extends mCDatabase_base
 			{
 				$this->conn = sqlsrv_connect
 				( 
-					$option->dblocation, 
+					$option->dblocation . "," . $option->dbport, 
 					array
 					(
 						"UID"=>$option->uid,
