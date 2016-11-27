@@ -87,7 +87,7 @@ class mCDatabase_base
 	function GetUrl()
 	{
 		$host = $_SERVER["HTTP_HOST"];
-		$url = $_SERVER["URL"];
+		$url = $_SERVER["REQUEST_URI"];
 		$str = $_SERVER["QUERY_STRING"];
 		
 		$full_url = "http://" . $host . $url;
